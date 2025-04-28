@@ -3,7 +3,7 @@
 Proj 2
 Description (card games. 3 card games )
 
-Screenshots and additional information about your work.
+
 (![placeholder-image](https://github.com/user-attachments/assets/f7eceed8-6346-46ae-b37b-06fd649b4161)
 
 In this console app you have 3 card games to choose from, going from easiest to most challenging. The first game, apples or oranges has the player draw a card. The player then has to guess if the following card will be the same suit or different. If the player guesses correctly they get a point , other wise they do not gain any. The game ends when the player gets___ points.
@@ -18,7 +18,7 @@ In the last game, Highest Match, the dealer shuffles a deck with 52 cards and 4 
 Proj 3
 Description (wpf monster finder  or weather app)
 
-Screenshots and additional information about your work.
+
 (![placeholder-image](https://github.com/user-attachments/assets/f7eceed8-6346-46ae-b37b-06fd649b4161)
 (for wpf)This is accomplished in a wpf format
 (for weather app) This is accomplished with a weather api aquired from ____ . The goal of this app? is to show the weather that chicago is having.
@@ -28,7 +28,7 @@ Additional information can include technical details, UML, unique ways you solve
 Assignment 1
 Description (Creatures (Delegates and Interfaces))
 
-Screenshots and additional information about your work.
+
 (![placeholder-image](https://github.com/user-attachments/assets/f7eceed8-6346-46ae-b37b-06fd649b4161)
 In this app you have several locations that you can choose from. These range from __ to __. In these locations there are different animls that can spawn in this location 
 Additional information can include technical details, UML, unique ways you solved the challenge, etc.
@@ -36,13 +36,13 @@ Additional information can include technical details, UML, unique ways you solve
 Assignment 2
 Description (Coffee)
 
-Screenshots and additional information about your work.
+
 (![placeholder-image](https://github.com/user-attachments/assets/f7eceed8-6346-46ae-b37b-06fd649b4161)
 Additional information can include technical details, UML, unique ways you solved the challenge, etc.
 
 Assignment 3
 Description (weather app or coffee or ordle)
 
-Screenshots and additional information about your work.
+
 (![placeholder-image](https://github.com/user-attachments/assets/f7eceed8-6346-46ae-b37b-06fd649b4161)
 Additional information can include technical details, UML, unique ways you solved the challenge, etc.
