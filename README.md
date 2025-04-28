@@ -1,8 +1,7 @@
 # Anabel-Moreno
 
 Proj 2
-Description (card games. 3 card games )
-
+Card Games
 
 ![placeholder-image](https://github.com/user-attachments/assets/f7eceed8-6346-46ae-b37b-06fd649b4161)
 
@@ -29,7 +28,7 @@ Description (wpf monster finder  or weather app)
 Additional information can include technical details, UML, unique ways you solved the challenge, etc.
 
 Assignment 1
-Description (Creatures (Delegates and Interfaces))
+Creatures (Delegates and Interfaces))
 
 
 ![placeholder-image](https://github.com/user-attachments/assets/f7eceed8-6346-46ae-b37b-06fd649b4161)
@@ -38,7 +37,7 @@ In this app you have several locations that you can choose from. These range fro
 Additional information can include technical details, UML, unique ways you solved the challenge, etc.
 
 Assignment 2
-Description (Coffee)
+Coffee
 
 
 ![placeholder-image](https://github.com/user-attachments/assets/f7eceed8-6346-46ae-b37b-06fd649b4161)
