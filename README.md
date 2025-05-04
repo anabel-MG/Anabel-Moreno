@@ -33,8 +33,7 @@ Creatures (Delegates and Interfaces))
 
 ![placeholder-image](https://github.com/user-attachments/assets/f7eceed8-6346-46ae-b37b-06fd649b4161)
 
-In this app you have several locations that you can choose from. These range from __ to __. In these locations there are different animls that can spawn in this location 
-Additional information can include technical details, UML, unique ways you solved the challenge, etc.
+In this app you have several locations that you can choose from. These range from __ to __. In these locations different animals can spawn in. Each animal has different foods it eats, you can also intract with these animals as well.
 
 Assignment 2
 Coffee
