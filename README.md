@@ -30,16 +30,23 @@ Additional information can include technical details, UML, unique ways you solve
 Assignment 1
 Creatures (Delegates and Interfaces))
 
+![Screenshot 2025-05-04 190838](https://github.com/user-attachments/assets/84b4c983-68ad-4fa3-a053-a3f96316c319)
+![Screenshot 2025-05-04 190922](https://github.com/user-attachments/assets/ea671965-4e6d-4310-9200-76c2ea1de9e9)
+![Screenshot 2025-05-04 190932](https://github.com/user-attachments/assets/7af8a9d6-de6f-431e-86f8-fb0d2c813442)
 
-![placeholder-image](https://github.com/user-attachments/assets/f7eceed8-6346-46ae-b37b-06fd649b4161)
+![Screenshot 2025-05-04 191050](https://github.com/user-attachments/assets/34ffe783-c1a0-48f2-b2f0-46e1a93529ff)
+
+![Screenshot 2025-05-04 191116](https://github.com/user-attachments/assets/78c6c07d-6cf1-46a1-aa3e-a9d49cd5212c)
+
+
 
 In this app you have several locations that you can choose from. These range from __ to __. In these locations different animals can spawn in. Each animal has different foods it eats, you can also intract with these animals as well.
 
 Assignment 2
 Coffee
 
+![Screenshot 2025-05-04 215224](https://github.com/user-attachments/assets/c270d5e3-b0e4-4691-96e9-632f76084a27)
 
-![placeholder-image](https://github.com/user-attachments/assets/f7eceed8-6346-46ae-b37b-06fd649b4161)
 
 Additional information can include technical details, UML, unique ways you solved the challenge, etc.
 
