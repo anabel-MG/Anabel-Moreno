@@ -51,7 +51,7 @@ Coffee
 Additional information can include technical details, UML, unique ways you solved the challenge, etc.
 
 Assignment 3
-Description (weather app or coffee or ordle)
+Description (CraftingSystems)
 
 
 ![placeholder-image](https://github.com/user-attachments/assets/f7eceed8-6346-46ae-b37b-06fd649b4161)
