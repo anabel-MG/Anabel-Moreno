@@ -52,10 +52,15 @@ Additional information can include technical details, UML, unique ways you solve
 
 Assignment 3
 CraftingSystems
+
 ![Screenshot 2025-05-08 102256](https://github.com/user-attachments/assets/7d939984-ecda-4f6a-ab10-d619bb875eb9)
+
 ![Screenshot 2025-05-08 102309](https://github.com/user-attachments/assets/a9fd9c34-da76-477f-ba67-bf80ca1e9625)
+
 ![Screenshot 2025-05-08 102324](https://github.com/user-attachments/assets/0cd45268-ac92-4114-8d4c-a9e58c305963)
+
 ![Screenshot 2025-05-08 102339](https://github.com/user-attachments/assets/328e4210-4f69-4421-8656-10ed101c8e9c)
+
 
 
 
