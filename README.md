@@ -17,10 +17,10 @@ Card Games
 
 
 Proj 3
-Description (wpf monster finder  or weather app)
+Weather App
 
+![Screenshot 2025-05-08 190547](https://github.com/user-attachments/assets/7778cde1-c7af-4721-9fd6-fc70217ae185)
 
-![placeholder-image](https://github.com/user-attachments/assets/f7eceed8-6346-46ae-b37b-06fd649b4161)
 
 (for wpf)This is accomplished in a wpf format
 (for weather app) This is accomplished with a weather api aquired from ____ . The goal of this app? is to show the weather that chicago is having.
