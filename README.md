@@ -3,7 +3,19 @@
 Proj 2
 Card Games
 
-![placeholder-image](https://github.com/user-attachments/assets/f7eceed8-6346-46ae-b37b-06fd649b4161)
+![Screenshot 2025-05-08 202320](https://github.com/user-attachments/assets/459562ac-8e9c-461d-a892-7a894da36196)
+
+![Screenshot 2025-05-08 202628](https://github.com/user-attachments/assets/5cd54196-6a33-4b13-a9be-364b60c98eed)
+
+higher or lower
+![Screenshot 2025-05-08 203217](https://github.com/user-attachments/assets/c785c391-159e-430a-bc25-d885043b66c5)
+
+![Screenshot 2025-05-08 203347](https://github.com/user-attachments/assets/f3291064-0e94-469d-b1bc-02643293d530)
+
+![Screenshot 2025-05-08 203613](https://github.com/user-attachments/assets/86da8245-9e0e-473b-9666-2b33e8003d49)
+
+
+
 
   In this console app you have 3 card games to choose from, going from easiest to most challenging. The first game, apples or oranges has the player draw a card. The player then has to guess if the following card will be the same suit or different. If the player guesses correctly they get a point , other wise they do not gain any. The game ends when the player gets___ points.
 (describe the mechanisms of the game and what went into making it}
