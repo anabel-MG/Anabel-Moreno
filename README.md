@@ -33,6 +33,7 @@ higher or lower
 
 Proj 3
 
+<img src="https://github.com/user-attachments/assets/f7eceed8-6346-46ae-b37b-06fd649b4161" alt="placeholder-image">
 
 Additional information can include technical details, UML, unique ways you solved the challenge, etc.
 
