@@ -27,7 +27,7 @@ higher or lower
   In the last game, Highest Match, the dealer shuffles a deck with 52 cards and 4 suits. The player is dealt 4 cards that only they can see.The dealer gets 4 cards aswell.Each  card has a value, the following go from lowest to highest: ace,2,3,4,5,6,7,8,9,joker(10),queen(11),and king(12).In the beginning of any round, the player has the option to end the game or countinue for up to 9 more round to try to get a better hand. Each round the player and the dealer can select one card to replace,the replacement will be the nect card from a shuffled deck. At the end of the game, the player's hand and the dealers hand are compared, whomever has the highest score will win.The score is calculated by adding together all values for cards of the same suit. Whatever the gighest amount is in each suit group, that is the player's final score.
 (describe the mechanisms of the game and what went into making it}
 
-
+*******************************************************************************************************************************************************************************************************************
 
 Proj 3
 
