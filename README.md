@@ -54,7 +54,7 @@ Creatures (Delegates and Interfaces))
 
 
 
-In this app you have several locations that you can choose from. These range from __ to __. In these locations different animals can spawn in. Each animal has different foods it eats, you can also intract with these animals as well.
+In this app, you have several locations that you can choose from. These range from Illinois, Six Flags, and a lake. In these locations, different animals can appear. Each animal has different foods it eats, you can also interact with these animals by feeding or playing with them. You also have the option to travel to another location when you finish interacting with the animals or if you don't wish to interact with them.
 
 
 *******************************************************************************************************************************************************************************************************************
@@ -68,8 +68,7 @@ Coffee
 ![Screenshot 2025-05-04 215224](https://github.com/user-attachments/assets/c270d5e3-b0e4-4691-96e9-632f76084a27)
 
 
-Additional information can include technical details, UML, unique ways you solved the challenge, etc.
-
+This is a console app that will simulate a cup of hot coffee getting to room temperature after a period of time. It displays the seconds that pass and the temperature at that time. It will stop when the simulated coffee reaches room temperature
 
 *******************************************************************************************************************************************************************************************************************
 *******************************************************************************************************************************************************************************************************************
@@ -82,5 +81,4 @@ Weather App
 ![Screenshot 2025-05-08 190547](https://github.com/user-attachments/assets/7778cde1-c7af-4721-9fd6-fc70217ae185)
 
 
-(for wpf)This is accomplished in a wpf format
-(for weather app) This is accomplished with a weather api aquired from ____ . The goal of this app? is to show the weather that chicago is having.
+ This is accomplished with a weather api and is in a  WPF format. The goal of this app is to show the weather that Chicago is having. It will have a picture showing the expected weather aswell as an "update" button that will show any changes that have occurred,if no weather changes occur it remains the same.
