@@ -33,9 +33,32 @@ higher or lower
 
 Proj 3
 
-<img src="https://github.com/user-attachments/assets/f7eceed8-6346-46ae-b37b-06fd649b4161" alt="placeholder-image">
+![Screenshot 2025-05-09 200626](https://github.com/user-attachments/assets/ef80faad-2dd5-4b29-93ad-d789212e44cc)
 
-Additional information can include technical details, UML, unique ways you solved the challenge, etc.
+![sag2](https://github.com/user-attachments/assets/ed55ddfc-9171-4fb0-83cc-898bbd5dddc9)
+
+![sag3](https://github.com/user-attachments/assets/824bb338-91ea-4932-bb1c-4f49b99679d6)
+
+![sag4](https://github.com/user-attachments/assets/084ed7ce-128c-4d84-acef-0bea53097c6a)
+
+![sag5](https://github.com/user-attachments/assets/07452552-ddbc-47f2-8898-76500f2121d1)
+
+![sag6](https://github.com/user-attachments/assets/03a17007-17f0-4444-a5d4-ecdb0d79c308)
+
+![sag7](https://github.com/user-attachments/assets/27afcc18-e4dd-48ba-b37e-d12dc52a2800)
+
+![sag8](https://github.com/user-attachments/assets/2a10eb10-35cf-4b41-b8c0-41a40a3c9f3e)
+
+![sag9](https://github.com/user-attachments/assets/7724891b-fcad-4417-9b26-db8646b2992d)
+
+
+![Screenshot_2025_05_09-13](https://github.com/user-attachments/assets/3f4cdeb6-f75e-431f-97f6-f00dfbb0439e)
+
+![sag11](https://github.com/user-attachments/assets/39fc2f2b-0d90-4288-9d22-5924b8e09fbb)
+
+
+This is a simple adventure game built with WPF. The player can explore different regions, collect items, and interact with the game using a simple interface.The game starts with a welcome screen where players enter their name. After that, they move to the main gameplay screen, which shows their current region, its description, and available items. Players have an inventory to store items, including special magical ones. Each region is item specific, the players can inspect the item and then decide to keep it. If they decide to keep the item it is added to their inventory and is removed from the list. If they don't keep the item it remains in the list.
+
 
 *******************************************************************************************************************************************************************************************************************
 *******************************************************************************************************************************************************************************************************************
